@@ -1,59 +1,41 @@
-📊 Virat Kohli Career Analysis – Power BI Dashboard
+🏏 Virat Kohli Career Statistics Dashboard – Power BI
 
 <img width="1254" height="705" alt="MyDashboard" src="https://github.com/user-attachments/assets/af97a22b-b9f9-4078-bec7-7857d1c6b8a9" />
 
-This project showcases an interactive Power BI dashboard designed to analyze Virat Kohli’s international cricket career across different formats and years.
+This project showcases an interactive career analysis dashboard of Virat Kohli, built using Microsoft Power BI. The dashboard presents a comprehensive view of his cricketing performance over the years using visually appealing and easy-to-understand insights.
 
-The dashboard focuses on visual storytelling rather than raw statistics, helping users understand performance patterns, trends, and comparisons through intuitive visuals.
+It is designed to demonstrate sports data analysis, storytelling through data, and dashboard design skills, enabling users to explore performance trends across formats and time periods.
 
-🔍 Dashboard Highlights
+✨ Features
 
-Format-wise Performance View
-Analyze how performance varies across different cricket formats using interactive slicers.
+📅 Year-wise Performance Analysis
+Analyze career progression over different years using dynamic visuals.
 
-Year-wise Trend Analysis
-Visual charts display performance progression over the years, clearly highlighting peak phases and form changes.
+🎯 Format-wise Comparison
+Interactive selection for ODI, T20, and Test formats.
 
-Consistency Indicators
-KPI cards and charts reflect long-term consistency and stability throughout the career.
+📊 Performance Overview Cards
+Key performance indicators displayed using KPI cards for quick insights.
 
-Boundary Distribution Analysis
-Donut and bar charts visually represent scoring patterns and shot selection tendencies.
+⚡ Boundary Distribution Analysis
+Visual representation of boundary patterns using donut charts.
 
-Centuries vs Fifties Comparison
-Comparative visuals show the ability to convert starts into impactful innings.
+📈 Career Trend Visualization
+Bar and line charts to showcase performance trends over time.
 
-Interactive Filtering
-Users can dynamically explore the data by format, year, and match type for deeper insights.
+🏏 Centuries & Fifties Insights
+Trend analysis of milestone achievements across different years.
 
-🧠 What This Project Demonstrates
+📌 Interactive Filters & Slicers
+Filter data by year range and match format for deeper analysis.
 
-Data extraction and preparation for analysis
+🛠️ Technologies Used
 
-Data cleaning and transformation using Power Query
+Microsoft Power BI Desktop
 
-Effective use of Power BI visuals and slicers
+DAX (for calculated measures and logic)
 
-Insight-driven dashboard design
+CSV / Excel dataset
 
-Analytical thinking and storytelling with data
-
-🛠 Tools & Technologies
-
-Power BI Desktop
-
-Google Sheets (for data sourcing)
-
-Power Query
-
-Data Visualization & Dashboarding
-
-🎯 Portfolio Value
-
-This project highlights my ability to:
-
-Transform raw sports data into meaningful insights
-
-Build interactive and user-friendly dashboards
-
-Apply data analytics concepts in a real-world scenario
+Power BI Visualizations:
+Bar Charts, Line Charts, Donut Charts, KPI Cards, Slicers
