@@ -1,5 +1,7 @@
 📊 Virat Kohli Career Analysis – Power BI Dashboard
 
+<img width="1254" height="705" alt="MyDashboard" src="https://github.com/user-attachments/assets/af97a22b-b9f9-4078-bec7-7857d1c6b8a9" />
+
 This project showcases an interactive Power BI dashboard designed to analyze Virat Kohli’s international cricket career across different formats and years.
 
 The dashboard focuses on visual storytelling rather than raw statistics, helping users understand performance patterns, trends, and comparisons through intuitive visuals.
